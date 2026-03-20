@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+👋 Hi, I’m Zhe (Zachary) Xiao
+🎓 M.S. student in ECE at Carnegie Mellon University
+💼 Previously Research Intern at Sony
+🏫 B.Eng. from The Hong Kong Polytechnic University
+📫 zacharyzhexiao@cmu.edu
