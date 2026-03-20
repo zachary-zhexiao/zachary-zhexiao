@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 
 
 
-👋 Hi, I’m Zhe (Zachary) Xiao
-🎓 M.S. student in ECE at Carnegie Mellon University
-💼 Previously Research Intern at Sony
-🏫 B.Eng. from The Hong Kong Polytechnic University
-📫 zacharyzhexiao@cmu.edu
+- 👋 Hi, I’m Zhe (Zachary) Xiao
+
+- 🎓 M.S. student in ECE at Carnegie Mellon University
+
+- 💼 Previously Research Intern at Sony
+
+- 🏫 B.Eng. from The Hong Kong Polytechnic University
+
+- 📫 zacharyzhexiao@cmu.edu
